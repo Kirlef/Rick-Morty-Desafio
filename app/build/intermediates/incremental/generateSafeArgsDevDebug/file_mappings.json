@@ -1,0 +1,1 @@
+[{"navFile":"src/main/res/navigation/navigation_graph.xml","javaFiles":["com.example.rickandmorty.ui.character.CharacterFragmentDirections","com.example.rickandmorty.ui.characterdetail.CharacterDetailFragmentArgs"]},{"navFile":"src/main/res/navigation/navigation.xml","javaFiles":["com.example.rickandmorty.loginDirections","com.example.rickandmorty.signupDirections"]}]

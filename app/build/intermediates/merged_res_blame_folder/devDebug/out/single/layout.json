@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/macbookproretina/Downloads/RickAndMorty/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_character_details.xml",
+        "source": "/Users/macbookproretina/Downloads/RickAndMorty/app/src/main/res/layout/fragment_character_details.xml"
+    },
+    {
+        "merged": "/Users/macbookproretina/Downloads/RickAndMorty/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_character.xml",
+        "source": "/Users/macbookproretina/Downloads/RickAndMorty/app/src/main/res/layout/fragment_character.xml"
+    },
+    {
+        "merged": "/Users/macbookproretina/Downloads/RickAndMorty/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_character_detail.xml",
+        "source": "/Users/macbookproretina/Downloads/RickAndMorty/app/src/main/res/layout/fragment_character_detail.xml"
+    }
+]

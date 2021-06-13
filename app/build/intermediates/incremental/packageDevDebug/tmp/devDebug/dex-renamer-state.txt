@@ -1,0 +1,10 @@
+#Sun Jun 13 02:20:41 COT 2021
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/Users/macbookproretina/Downloads/RickAndMorty/app/build/intermediates/dex/devDebug/mergeExtDexDevDebug/classes2.dex
+base.1=/Users/macbookproretina/Downloads/RickAndMorty/app/build/intermediates/dex/devDebug/mergeProjectDexDevDebug/classes.dex
+base.0=/Users/macbookproretina/Downloads/RickAndMorty/app/build/intermediates/dex/devDebug/mergeExtDexDevDebug/classes.dex
